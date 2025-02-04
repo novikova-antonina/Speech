@@ -1,7 +1,4 @@
-import transliterate
-import num2words
-
-from transliterate import translit, get_available_language_codes
+from transliterate import translit
 from num2words import num2words
 
 def main():
